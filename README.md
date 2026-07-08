@@ -251,7 +251,7 @@ object RajKashiv : AndroidAlchemist() {
 <div align="center">
 
 <!-- Animated Android Phone SVG -->
-<img src="https://raw.githubusercontent.com/Codeblocker97/Codeblocker97/main/assets/android-phone.svg" alt="Android Phone Animation" width="280" />
+<img src="https://raw.githubusercontent.com/Codeblocker97/raj-kashiv-mobile-dev/main/android-phone.svg" alt="Android Phone Animation" width="280" />
 
 <br/><br/>
 
