@@ -46,24 +46,25 @@ object RajKashiv : AndroidAlchemist() {
 
     override val name        = "Raj Kashiv"
     override val role        = "Senior Android Engineer"
-    override val location    = "Pune, India 🇮🇳"
-    override val experience  = "6.6+ years"
+    override val location    = "India 🇮🇳"
+    override val industry_experience  = "6.6+ years"
+    override val android_experience  = "5.2+ years"
 
     override val architecture = listOf("CLEAN", "MVVM", "MVI", "SOLID")
-    override val superpower   = "Transmuting Kotlin into 60fps, accessible, production-grade apps"
+    override val superpower   = "Transmuting Kotlin with Jetpack Compose into 60fps, accessible, production-grade apps"
 
     override val domains = listOf(
         "💰 Digital Banking  — 500K MAU, AES-256, Biometric",
         "🚗 Automotive       — 12 OEM partners, real-time telemetry",
         "🅿️ Smart Parking    — BLE beacons, 10K+ spots, Maps SDK",
-        "✈️ Travel & Booking — Offline-first, 6-locale i18n"
+        "✈️ Travel & Booking — Offline-first, AI Integration"
     )
 
     override fun currentFocus() = buildList {
         add("🏗️ Migrating banking super-app to MVI + CLEAN")
         add("🚀 Jetpack Compose adoption: 0% → 72% of screens")
         add("⚡ Baseline profiles & startup tracing (-40% cold start)")
-        add("🧑‍🏫 Mentoring 3 junior engineers in TDD & secure coding")
+        add("🧑‍🏫 Mentoring junior engineers in TDD & secure coding")
     }
 }
 ```
@@ -75,7 +76,7 @@ object RajKashiv : AndroidAlchemist() {
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%F0%9F%A7%AA+Core+Technical+Skills" alt="Skills" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%F0%9F%A7%AA+The+Periodic+Table+of+Android" alt="Skills" /></a>
 </div>
 
 | Category | Technologies |
@@ -179,8 +180,8 @@ object RajKashiv : AndroidAlchemist() {
 </div>
 
 ```text
-  Oct 2025 ──────── Present         🟩 Senior Software Engineer @ EPAM Systems
-  ████████████████████████████       → Architected MAFE-PARK booking with Clean + MVI
+  Oct 2025 ──────── June 2026       🟩 Senior Software Engineer @ EPAM Systems
+  ███████████████████████████        → Architected MAFE-PARK booking with Clean + MVI
                                      → Eliminated UI jank, maintaining strict 60 FPS
                                      → Reduced booking friction by 15%
 
@@ -248,13 +249,21 @@ Pranveer Singh Institute of Technology (AKTU), Kanpur
 ### 📜 Certifications
 | Cert | Issuer |
 |------|--------|
-| Prompt Engineering for Claude | Anthropic |
-| AI Safety Fundamentals | Anthropic |
 | Advanced Android App Dev | LinkedIn Learning |
 | Kotlin Essential Training | LinkedIn Learning |
+| Android Compose with Kotlin | LinkedIn Learning |
+| Android App architecture with Kotlin | LinkedIn Learning |
 | Android App Security | LinkedIn Learning |
 | Git Essential Training | LinkedIn Learning |
+| Creating and Securing Bluetooth Low Energy (BLE) Applications | LinkedIn Learning |
 | Android Dev Training | Internship Program |
+| Prompt Engineering for Claude - Claude 101 | Anthropic |
+| Claude Code in Action | Anthropic |
+| Building with Claude API | Anthropic |
+| Model Contect Protocol - Advanced | Anthropic |
+| Introduction to agent skills | Anthropic |
+| Introduction to subagents | Anthropic |
+| AI Fluency Framework & Foundations | Anthropic |
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
 
